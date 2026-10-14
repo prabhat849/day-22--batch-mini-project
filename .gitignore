@@ -1,0 +1,9 @@
+target/
+project/target/
+project/project/
+output/
+*.log
+.metals/
+.bloop/
+.idea/
+.vscode/
